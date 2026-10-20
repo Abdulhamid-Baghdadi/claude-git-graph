@@ -1,0 +1,7 @@
+{
+  "name": "git-graph",
+  "version": "0.1.0",
+  "description": "A pane that draws the commit graph of a local git repo, and a Portfolio pane with one activity card per local project",
+  "author": { "name": "Abdulhamid Baghdadi" },
+  "types": "./types/index.d.ts"
+}

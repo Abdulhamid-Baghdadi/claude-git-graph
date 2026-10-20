@@ -1,0 +1,6 @@
+# Written by the Claude Code engine when it loads the mod.
+.claude-plugin/types/
+# A snapshot of a private repo's history, kept local.
+tests/real-repo.fixture.ts
+tests/real-repo.test.ts
+node_modules/
